@@ -1,4 +1,4 @@
-import string from '/pikachu'
+import string from './css.js'
 
 const player = {
   id: undefined,
